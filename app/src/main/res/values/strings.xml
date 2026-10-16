@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Smart DNS TV</string>
+    <string name="app_tagline">Fast, Secure &amp; Private TV DNS</string>
+    <string name="status_protected">PROTECTION ACTIVE</string>
+    <string name="status_unprotected">DISCONNECTED</string>
+    <string name="status_desc_connected">Secure DNS tunnel active • Network queries filtered</string>
+    <string name="status_desc_disconnected">Select a DNS server and click Connect to protect your TV</string>
+    <string name="btn_connect">⚡ Connect DNS</string>
+    <string name="btn_disconnect">Disconnect</string>
+    
+    <!-- DNS Presets -->
+    <string name="select_dns_header">SELECT DNS PROVIDER</string>
+    <string name="preset_adguard_title">AdGuard DNS</string>
+    <string name="preset_adguard_desc">Ad &amp; Tracker Blocking</string>
+    <string name="preset_adguard_servers">94.140.14.14 • 94.140.15.15</string>
+    
+    <string name="preset_cloudflare_title">Cloudflare</string>
+    <string name="preset_cloudflare_desc">Ultra-Fast &amp; Privacy (1.1.1.1)</string>
+    <string name="preset_cloudflare_servers">1.1.1.1 • 1.0.0.1</string>
+    
+    <string name="preset_google_title">Google Public</string>
+    <string name="preset_google_desc">Global &amp; Reliable (8.8.8.8)</string>
+    <string name="preset_google_servers">8.8.8.8 • 8.8.4.4</string>
+    
+    <string name="preset_custom_title">Custom DNS</string>
+    <string name="preset_custom_desc">Enter Custom IP Resolver</string>
+    <string name="custom_dns_hint">Enter IPv4 or IPv6 (e.g. 1.1.1.1)</string>
+    
+    <!-- Network & Settings -->
+    <string name="network_label">NETWORK</string>
+    <string name="network_ethernet">Ethernet (LAN) 🟢</string>
+    <string name="network_wifi">Wi-Fi 📶</string>
+    <string name="network_none">No Network ⚠️</string>
+    
+    <string name="auto_reconnect_title">Auto-Reconnect on TV Wake</string>
+    <string name="auto_reconnect_desc">Keeps protection active across TV sleep, standby, and reboot</string>
+    
+    <!-- Notification -->
+    <string name="notification_channel_name">Smart DNS TV Service</string>
+    <string name="notification_channel_desc">Maintains secure DNS connection while TV apps are running</string>
+    <string name="notification_title">Smart DNS TV Active</string>
+    <string name="notification_text">Protecting network queries</string>
+
+    <string name="app_logo_desc">Smart DNS TV Logo</string>
+    <string name="active_server_label">ACTIVE SERVER: </string>
+</resources>

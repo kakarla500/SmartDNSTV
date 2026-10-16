@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for Smart DNS TV. -->
+    <style name="Theme.SmartDnsTV" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="colorPrimary">@color/preset_adguard</item>
+        <item name="colorPrimaryVariant">@color/btn_connect_bg_focused</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/card_border_focused</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+    </style>
+
+    <!-- Backward compatibility aliases -->
+    <style name="Theme.AdGuardTV" parent="Theme.SmartDnsTV" />
+    <style name="Theme.MyApplication" parent="Theme.SmartDnsTV" />
+</resources>

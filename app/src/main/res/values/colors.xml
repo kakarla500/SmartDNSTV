@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand & Theme Colors -->
+    <color name="bg_dark">#0B0F19</color>
+    <color name="card_bg">#151D2C</color>
+    <color name="card_bg_focused">#1E293B</color>
+    <color name="card_bg_selected">#162838</color>
+    <color name="card_border">#233045</color>
+    <color name="card_border_focused">#38BDF8</color>
+    <color name="card_border_selected">#10B981</color>
+    
+    <!-- Status Colors -->
+    <color name="status_connected">#10B981</color>
+    <color name="status_connected_glow">#3310B981</color>
+    <color name="status_disconnected">#64748B</color>
+    <color name="status_disconnected_glow">#2264748B</color>
+    <color name="status_disconnected_badge">#475569</color>
+    
+    <!-- DNS Provider Accents -->
+    <color name="preset_adguard">#10B981</color>
+    <color name="preset_cloudflare">#F97316</color>
+    <color name="preset_google">#3B82F6</color>
+    <color name="preset_custom">#A855F7</color>
+    
+    <!-- Typography & Surfaces -->
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="text_muted">#64748B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    
+    <!-- Buttons -->
+    <color name="btn_connect_bg">#10B981</color>
+    <color name="btn_connect_bg_focused">#059669</color>
+    <color name="btn_disconnect_bg">#EF4444</color>
+    <color name="btn_disconnect_bg_focused">#DC2626</color>
+    
+    <!-- Legacy aliases -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#10B981</color>
+    <color name="purple_700">#059669</color>
+    <color name="teal_200">#38BDF8</color>
+    <color name="teal_700">#0284C7</color>
+</resources>
